@@ -146,14 +146,14 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/PlatinumFinanceOfficial",
+        href: "/", // TO DO
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PlatinumPolygon",
+    href: "https://twitter.com/", // TO DO
   },  
 ];
 
